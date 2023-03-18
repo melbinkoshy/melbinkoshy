@@ -14,7 +14,7 @@ Here are some of the technologies and tools that I work with:
 
 ## 📈 GitHub Stats
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
+![melbin's GitHub stats](https://github-readme-stats.vercel.app/api?username=melbinkoshy&show_icons=true&theme=dark)
 
 ## 📫 How to reach me
 
