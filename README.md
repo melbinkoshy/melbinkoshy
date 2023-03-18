@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hi there, I'm Melbin 👋
 
-<!--
-**melbinkoshy/melbinkoshy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 2nd year computer engineering student at Fr.CRCE. I'm passionate about Web Development,AI and Machine learnig and I love to learn new things every day. In my free time, I enjoy making music, playing keyboard, and playing football.
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here are some of the technologies and tools that I work with:
+
+- Programming Languages: C,Java,Python
+- Frameworks: Django
+- Databases: Postgressql
+
+
+
+## 📈 GitHub Stats
+
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
+
+## 📫 How to reach me
+
+- [Email](melbinkoshy2002@gmail.com)
+
+
+Feel free to reach out to me if you have any questions or just want to say hi!
