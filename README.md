@@ -9,7 +9,7 @@ Here are some of the technologies and tools that I work with:
 - Programming Languages: C,Java,Python,(learning javascript)
 - Frameworks: Django,(learning React)
 - Databases: Postgressql
-
+- interests:Devops,CI/CD,cloud computing
 
 
 ## 📈 GitHub Stats
