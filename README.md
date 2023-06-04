@@ -6,7 +6,7 @@ I'm a 2nd year computer engineering student at Fr.CRCE. I'm passionate about Web
 
 Here are some of the technologies and tools that I work with:
 
-- Programming Languages: C,Java,Python,(learning javascript)
+- Programming Languages: C,Java,Python,javascript
 - Frameworks: Django,(learning React)
 - Databases: Postgressql
 - interests:Devops,CI/CD,cloud computing
