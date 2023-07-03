@@ -1,6 +1,6 @@
 # Hi there, I'm Melbin 👋
 
-I'm a 2nd year computer engineering student at Fr.CRCE. I'm passionate about Web Development,AI and Machine learning and I love to learn new things every day. In my free time, I enjoy making music, playing keyboard, and playing football.
+I'm a 3rd year computer engineering student at Fr.CRCE. I'm passionate about Web Development,AI and Machine learning and I love to learn new things every day. In my free time, I enjoy making music, playing keyboard, and playing football.
 
 ## 🔧 Technologies & Tools
 
